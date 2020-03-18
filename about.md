@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Mi nombre es Rafael Xavier. Soy economista (M.A. Universidad de Montevideo, Uruguay), trabajo hace 10 años en políticas públicas y me enfoco en macro internacional.
 
-### More Information
+### Contacto
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Twitter](https://twitter.com/_rxavier_).
