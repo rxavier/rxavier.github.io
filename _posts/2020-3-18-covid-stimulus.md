@@ -5,7 +5,7 @@ date: '2020-03-18 12:38:00 -0300'
 category: covid19
 ---
 
-Que la pandemia que estamos viviendo va a tener un impacto económico serio no es novedad. En primer lugar, impacto desde el punto de vista de incertidumbre y percepción de riesgo, algo que estamos viendo hace semanas.
+Que la pandemia que estamos viviendo va a tener un impacto económico serio no es novedad. Primero, desde el punto de vista de incertidumbre y percepción de riesgo, algo que estamos viendo hace semanas.
 
 ![VIX](https://i.imgur.com/Ow5fXf7.png)
 
@@ -47,14 +47,14 @@ En Uruguay el caso es agravado por 5 puntos de déficit fiscal que le restan mar
   * Expandiendo temporalmente programas de Asignaciones Familiares, Tarjeta Uruguay Social y seguro por desempleo. Las primeras dos, en particular, son de especial importancia para trabajadores fuera del circuito formal de trabajo, dado que no tendrían acceso al seguro por desempleo.
   * Permitiendo temporalmente la postergación de pagos de servicios públicos, en particular UTE; permitir aplazar pagos por 3 meses, reduciendo moras y tasas de interés a casi cero, mientras que lo acumulado se liquidará en un plazo de 12 meses luego de que el impacto del virus disminuya.
   * Implementando un sistema similar al que [se plantea llevar adelante Holanda](https://twitter.com/_basjacobs/status/1239989762926227467): financiar con fondos públicos el pago de salarios de empresas afectadas con la condición de que los trabajadores no sean despedidos.
+  * Dada la realidad laboral nacional, habrá que prestar especial atención y soluciones particulares para trabajadores independientes y micro emprendedores.
 * Impedir el cierre masivo de empresas. Inevitablemente caerán algunas (ya lo vienen haciendo), por lo que se busca es evitar que caigan aquellas que no tienen la liquidez para tolerar las medidas sanitarias pero que no tienen problemas de solvencia o rentabilidad de largo plazo.
   * Permitiendo temporalmente la postergación de pagos de servicios públicos en condiciones similares a las mencionadas más arriba, además de la postergación temporaria de pagos de impuestos y contribuciones a la seguridad social hasta un monto máximo.
-  * Asegurando acceso al crédito mediante programas de garantías de préstamos bancarios para PYMES.
+  * Asegurando acceso al crédito mediante programas de garantías de préstamos bancarios para PYMES afectadas. El mensaje debe ser claro: toda empresa con buenos fundamentos y buen historial de pago que esté siendo afectada por las medidas sanitarias tendrá acceso a crédito blando con condiciones de repago accesibles y dilatadas en el tiempo.
 * Contener el impacto en el sistema financiero del incremento de créditos morosos.
   * Asegurando liquidez por parte de la autoridad monetaria y flexibilizando requerimientos de capital temporalmente.
 * Mitigar la caída en la actividad económica con aquellos trabajadores que siguen activos.
   * Fomentando el trabajo remoto en todos los trabajadores que tengan la posibilidad. El sector tecnológico nacional, que ya cuenta con amplia experiencia en estas modalidades de trabajo, puede participar en este esfuerzo a través de la Cámara Uruguaya de Tecnologías de la Información. El Estado también tiene institucionalidad en funcionamiento que puede cumplir un rol clave, como INEFOP o AGESIC.
-* Dada la realidad laboral nacional, habrá que prestar especial atención y soluciones particulares para trabajadores independientes y micro emprendedores.
 
 Por sobre todo, cualesquiera sean las medidas económicas deben ser direccionadas y apuntar solamente a aquellos que están siendo afectados por las medidas sanitarias.
   
