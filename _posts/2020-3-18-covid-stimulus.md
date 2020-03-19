@@ -44,20 +44,23 @@ El objetivo, en general, es evitar transformar un shock transitorio a la oferta 
 En Uruguay el caso es agravado por 5 puntos de déficit fiscal que le restan margen de maniobra al gobierno. Sin embargo, entiendo que no establecer un programa de estímulo para mitigar el golpe económico será más dañino a largo plazo. En orden, creo que estas deberían ser las prioridades del gobierno:
 
 * Asegurar que familias con restricciones presupuestales ajustadas que estén sufriendo el impacto del virus se mantengan a flote.
-  * Expandiendo temporalmente programas de Asignaciones Familiares, Tarjeta Uruguay Social, seguro por desempleo, etc.
-  * Permitiendo la postergación temporaria de pagos de servicios públicos (por ejemplo, durante 2-3 meses se podrá aplazar los pagos, y lo acumulado se liquidará en un plazo de 12 meses luego de que el impacto del virus disminuya).
-  * Implementando un sistema similar al que [se plantea llevar adelante Holanda](https://twitter.com/_basjacobs/status/1239989762926227467): pagarle directamente a empresas para que no despidan trabajadores.
-* Impedir el cierre masivo de empresas. Inevitablemente caerán algunas (ya lo vienen haciendo), por lo que buscamos es evitar que caigan aquellas que no tienen problemas de solvencia o rentabilidad de largo plazo, pero que no tienen la liquidez para aguantar las medidas sanitarias.
-  * Permitiendo la postergación temporaria de pagos de servicios públicos en condiciones similares a las mencionadas más arriba, además de la postergación temporaria de pagos de impuestos y contribuciones a la seguridad social.
-  * Asegurando acceso al crédito mediante programas de garantías de préstamos bancarios.
+  * Expandiendo temporalmente programas de Asignaciones Familiares, Tarjeta Uruguay Social y seguro por desempleo. Las primeras dos, en particular, son de especial importancia para trabajadores fuera del circuito formal de trabajo, dado que no tendrían acceso al seguro por desempleo.
+  * Permitiendo la postergación temporaria de pagos de servicios públicos, en particular UTE (establecer que durante 3 meses se podrá aplazar los pagos, mientras que lo acumulado se liquidará en un plazo de 12 meses luego de que el impacto del virus disminuya).
+  * Implementando un sistema similar al que [se plantea llevar adelante Holanda](https://twitter.com/_basjacobs/status/1239989762926227467): financiar el pago de salarios de empresas afectadas con la condición de que los trabajadores no sean despedidos.
+* Impedir el cierre masivo de empresas. Inevitablemente caerán algunas (ya lo vienen haciendo), por lo que buscamos es evitar que caigan aquellas que no tienen problemas de solvencia o rentabilidad de largo plazo, pero que no tienen la liquidez para tolerar las medidas sanitarias.
+  * Permitiendo la postergación temporaria de pagos de servicios públicos en condiciones similares a las mencionadas más arriba, además de la postergación temporaria de pagos de impuestos y contribuciones a la seguridad social hasta un monto máximo.
+  * Asegurando acceso al crédito mediante programas de garantías de préstamos bancarios para PYMES.
 * Contener el impacto en el sistema financiero del incremento de créditos morosos.
-  * Asegurando liquidez por parte de la autoridad monetaria o relajando requerimientos de capital.
+  * Asegurando liquidez por parte de la autoridad monetaria y flexibilizando requerimientos de capital temporalmente.
 * Mitigar la caída en la actividad económica.
-  * Fomentando el teletrabajo a todos los trabajadores que tengan la posibilidad. Hay industrias dentro del país, como la tecnológica, que ya tienen amplia experiencia en estas prácticas y están muy bien organizadas (a través de la CUTI), que pueden participar en este esfuerzo. El Estado también tiene institucionalidad ya funcionando que puede cumplir un rol valioso, como INEFOP o AGESIC.
-* Dada la realidad laboral nacional, habrá que prestar especial atención y soluciones particulares para trabajadores independientes formales y trabajadores informales en general.
+  * Fomentando el trabajo remoto en todos los trabajadores que tengan la posibilidad. El sector tecnológico nacional, que ya cuenta con amplia experiencia en estas modalidades de trabajo, puede participar en este esfuerzo a través de la Cámara Uruguaya de Tecnologías de la Información. El Estado también tiene institucionalidad en funcionamiento que puede cumplir un rol clave, como INEFOP o AGESIC.
+* Dada la realidad laboral nacional, habrá que prestar especial atención y soluciones particulares para trabajadores independientes y micro emprendedores.
 
 Por sobre todo, cualesquiera sean las medidas económicas deben ser direccionadas y apuntar solamente a aquellos agentes que están siendo afectados por las medidas sanitarias.
   
 Varias de estas ideas fueron exploradas por Brum y Godin [en este reciente post de Razones y Personas](http://www.razonesypersonas.com/2020/03/lo-importante-no-es-el-color-del-gato.html). Como allí indican, el resultado va a ser un aumento del déficit fiscal que podrá ser financiado con endeudamiento (no debe perderse de vista que Uruguay tiene 2.200 millones de US$ de líneas de crédito contingentes con multilaterales), "relajación de la meta inflacionaria" (en criollo, que el BCU emita) e impuestos en el futuro. Nada de ello es deseable, pero quizás sea lo necesario para evitar males mayores y, sobre todo, permanentes.
  
-Dos puntos adicionales: 1) las medidas de estímulo económico son de segundo orden ante la necesidad de mantener a la gente sana; 2) cualquiera de estas medidas tiene un esfuerzo normativo y administrativo significativo que usualmente no se ajusta a los tiempos que esta pandemia demanda, pero que van a tener que ser ajustados si pretendemos que surtan efecto a tiempo.
+Tres puntos adicionales: 
+1) Las medidas de estímulo económico son de segundo orden ante la necesidad de mantener a la gente sana.
+2) Cualquiera de estas medidas tiene un esfuerzo normativo y administrativo significativo que usualmente no se ajusta a los tiempos que esta pandemia demanda, pero que van a tener que ser ajustados si pretendemos que surtan efecto a tiempo.
+3) El aumento del endeudamiento público requerirá un trabajo muy cuidadoso de parte del gobierno con sus acreedores y calificadoras de riesgo. Uruguay tiene un buen historial en su manejo de deuda pública y deberá aprovechar esa reputación para lograr mejores condiciones financieras.
