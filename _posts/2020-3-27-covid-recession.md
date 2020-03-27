@@ -43,6 +43,10 @@ Volviendo a Uruguay, en el primer post sobre la pandemia ilustraba el volumen de
 
 ![Seguro de desempleo](https://i.imgur.com/Z8LqKff.png)
 
+La demanda de electricidad también se vio afectada, reflejo de un frenazo en la actividad industrial y comercial.
+
+![Demanda electricidad](https://i.imgur.com/F5HLbqJ.png)
+
 En general, a nivel global la magnitud del impacto se perfila para ser mayor, aunque la duración presumiblemente va a ser menor. Esto último responde en parte a las características de la crisis que mencionaba más arriba. La crisis de 2008-09 fue una crisis financiera y de deuda al estilo sudden stop para varios de los países afectados. La acumulación de endeudamiento público y privado, y de desbalances fiscales y de cuenta corriente (a veces uno, a veces el otro, a veces los dos y los tres) en los años previos implicó que, cuando el crédito se limitó, una parte muy significativa de los ingresos se tenían que dedicar a la reducción de la deuda o posiciones deficitarias tanto del gobierno, como de empresas y familias. El proceso de "deleveraging" lleva tiempo, y mientras tanto la demanda se mantiene deprimida.
 
 La crisis actual tiene una naturaleza distinta. El origen principal es un shock de oferta a medida que trabajadores son enviados a sus hogares ya sea por determinación o exhortación del gobierno. Es decir, su causante es temporal por definición, como mucho hasta que una vacuna se descubra y administre. Mientras tanto, la producción y los ingresos de las familias se resienten, lo que termina reduciendo la demanda agregada y acentuando el golpe inicial.
