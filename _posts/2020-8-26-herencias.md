@@ -18,15 +18,15 @@ Sin ser minuciosos, ambos relatos son razonablemente ciertos. Pero como decía, 
 El crecimiento económico promedió 5,3% en el primer período, y 1,3% en el segundo. En el primer período se crearon 341 mil puestos de trabajo (35 mil por año), y en el segundo se destruyeron 82 mil (-15 mil por año). Los salarios reales crecieron durante el primer período a una tasa promedio del 4,3% y de 1,5% en el segundo (los salarios privados, en particular, ya habían caído en algunos meses en 2015 y 2018, y estaban cayendo desde diciembre del año pasado). La pobreza cayó 30 puntos porcentuales entre 2005 y 2014, pero desde entonces se ha estancado. La desigualdad, medida a través del índice de GINI, cayó durante el primer período, pero se mantiene porfiadamente estática durante el segundo. Lo que más se sale del libreto son la situación fiscal, que empezó su deterioro hacia 2012, luego de años de mantenerse razonablemente controlada, y la inflación, que por falta de voluntad política estuvo prácticamente todo el período por fuera del rango meta -bastante laxo por cierto- del BCU.
 
 <p align="center">
-  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/pbi.png">
+  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/pbi.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/empleo.png">
+  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/empleo.png?raw=true">
 </p>
 
 <p align="center">
-  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/salarios.png">
+  <img src="https://github.com/rxavier/rxavier.github.io/blob/master/images/salarios.png?raw=true">
 </p>
 
 Queda entonces de manifiesto que ambos relatos tienen al menos algo de ciertos, solo que para distintos períodos de tiempo. Pero es relevante saber por qué se dio semejante quiebre en el ciclo económico uruguayo que permite que relatos tan disímiles coexistan.
